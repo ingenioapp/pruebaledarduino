@@ -1,0 +1,13 @@
+.cursor {
+  cursor: pointer;
+}
+
+.bgGreen{
+  background-color: #d2d6de;
+  color: black;
+}
+
+.titulo1{
+  font-size: 14px;
+  font-weight: bolder;
+}

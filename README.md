@@ -1,2 +1,3 @@
-# pruebaledarduino
-Es una prueba de como encender un led usando nodejs  
+# pruebaled
+
+a [Sails](http://sailsjs.org) application
